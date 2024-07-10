@@ -4,3 +4,4 @@ pyvmomi>=6.5
 twisted>=14.0.2
 pyyaml
 service-identity
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
