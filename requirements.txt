@@ -1,6 +1,6 @@
 prometheus-client==0.0.19
 pytz
 pyvmomi>=6.5
-twisted>=14.0.2
+twisted>=24.7.0rc1
 pyyaml
 service-identity
